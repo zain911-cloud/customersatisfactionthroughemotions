@@ -1,0 +1,276 @@
+***************************************************************
+*                                                             *
+* Copyright Hikvision Digital Technology Co., Ltd.            *
+*                                                             *
+***************************************************************
+
+5 logs output
+
+
+User: admin Date:05/05/2022 Time: 20:05:19 made video export from DVR 0420210616AAWRG21003358WCVU
+
+
+----------------------------
+1     2022-05-05 11:07:41
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 161063320 R: 78628 W: 588252 Time: 05-05-2022 11:07:41
+A2 Len: 160916772 R: 151112 W: 408276 Time: 05-05-2022 11:07:41
+A3 Len: 161100348 R: 655260 W: 802400 Time: 05-05-2022 11:07:41
+A4 Len: 9808284 R: 1073036 W: 1178452 Time: 05-05-2022 11:07:41
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D11 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D12 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D13 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D14 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D15 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D16 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D17 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D18 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D19 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D20 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D21 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D22 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D23 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D24 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D33 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D34 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D35 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D36 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D37 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D38 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D39 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D40 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D41 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D42 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D43 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D44 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D45 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D46 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D47 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D48 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D49 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D50 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D51 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D52 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D53 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D54 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D55 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D56 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D57 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D58 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D59 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D60 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+2     2022-05-05 11:07:52
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 2%
+Sys: 3%
+Iowait: 0%
+Soft: 0%
+Idle: 92%
+Total memory: 94.37MB
+Free memory: 2,328KB
+Buffer: 19.55MB
+Cached: 22.34MB
+Main output: Main CVBS(1)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+
+
+
+----------------------------
+3     2022-05-05 11:17:03
+----------------------------
+Major Type: Information
+Minor Type: HDD S.M.A.R.T.
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+HDD: 1
+
+Hard disk = 1
+Firmware = SC13
+Model     = ST3500312CS
+Serial    = 5VVBSQX5
+ID  Attribute name                      Flags   Threshold   Value   Worst   Raw Value   Status  
+
+1   Raw Read Error Rate                 f       6           117     99      124314518   OK      
+3   Spin Up Time                        3       0           97      97      0           OK      
+4   Start/Stop Count                    32      20          100     100     568         OK      
+5   Reallocated Sector Count            33      36          100     100     0           OK      
+7   Seek Error Rate                     f       30          91      60      1565799654  OK      
+9   Power-on Hours Count                32      0           29      29      63063       OK      
+a   Spin Up Retry Count                 13      97          100     100     0           OK      
+c   Power Cycle Count                   32      20          100     100     277         OK      
+b8  Unknown Type Value: 184             32      99          100     100     0           OK      
+bb  Reported Uncorrectable Errors       32      0           100     100     0           OK      
+bc  Unknown Type Value: 188             32      0           100     100     0           OK      
+bd  High Fly Writes                     3a      0           86      86      14          OK      
+be  Temperature Difference from 100     22      45          56      47      807993388   OK      
+c2  Power temperature                   22      0           44      53      85899345964 OK      
+c3  ECC on the Fly count                1a      0           35      35      124314518   OK      
+c5  Current Pending Sector Count        12      0           100     100     0           OK      
+c6  Off-line Scan Uncorrect. Sector Count   10      0           100     100     0           OK      
+c7  Ultra ATA CRC Error Rate            3e      0           200     200     0           OK      
+
+
+
+----------------------------
+4     2022-05-05 11:17:52
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+A1 Len: 161106112 R: 1868864 W: 213660 Time: 05-05-2022 11:17:52
+A2 Len: 160873124 R: 1699448 W: 1897848 Time: 05-05-2022 11:17:52
+A3 Len: 160906908 R: 2079544 W: 228604 Time: 05-05-2022 11:17:52
+A4 Len: 9744004 R: 322196 W: 436696 Time: 05-05-2022 11:17:52
+D1 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D2 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D3 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D4 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D5 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D6 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D7 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D8 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D9 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D10 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D11 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D12 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D13 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D14 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D15 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D16 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D17 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D18 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D19 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D20 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D21 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D22 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D23 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D24 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D25 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D26 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D27 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D28 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D29 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D30 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D31 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D32 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D33 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D34 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D35 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D36 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D37 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D38 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D39 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D40 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D41 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D42 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D43 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D44 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D45 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D46 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D47 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D48 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D49 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D50 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D51 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D52 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D53 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D54 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D55 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D56 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D57 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D58 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D59 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+D60 Len: 0 R: 0 W: 0 Time: 01-01-1970 00:00:00
+
+
+
+----------------------------
+5     2022-05-05 11:18:02
+----------------------------
+Major Type: Information
+Minor Type: System Running Status
+Local User: N/A
+Host IP Address: N/A
+Parameter Type: N/A
+Camera No.: N/A
+
+System status: 2
+User: 4%
+Sys: 2%
+Iowait: 0%
+Soft: 0%
+Idle: 91%
+Total memory: 94.37MB
+Free memory: 2,300KB
+Buffer: 19.56MB
+Cached: 22.34MB
+Main output: Main CVBS(1)
+Main output status: 0
+Main output screen-division: 0
+Enable main output screensaver: 1
+Aux output: HDMI(2)
+Aux output status: 0
+Aux output screen-division: 0
+Enable Aux output  screensaver: 0
+Current output: 0
+Motherboard temperature: 127
+DSP status: 
+
+
+
+
+
+********************** LOG  END*************************
+
+
